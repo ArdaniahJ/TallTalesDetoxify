@@ -4,7 +4,7 @@
 Tall Tales?
 Why do I called it tall tales, a modern one even?
 
-Threat of abuse and harrassment has started even in traditional tall tales until now especially when modernization has taken the world. If it continues, people will stop expressing themselves and giving up seeking different opinions. This shall be the first step to make a better world thus making a modern tall tales that consisted only a good tales for the future generation. Call it a pipedream but I did try my best to stop harmful online content by interpreting visual concent in context thus making the world a better place for now and future generation. 
+Threat of abuse and harrassment has started even in traditional tall tales until now especially when modernization has taken the world. If it continues, people will stop expressing themselves and giving up seeking different opinions. This shall be the first step to make a better world thus making a modern tall tales that consisted only a good tales for the future generation. 
 
 # Project Description [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dk3jJWLklZZ2xN9EpIdnQiNJFTdvFKgY?usp=sharing)
 Trained models & code to predict toxic comments using below modules from TensorFlow and Keras;
