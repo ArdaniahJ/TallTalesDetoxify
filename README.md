@@ -1,10 +1,4 @@
-<h1 align="center">👮🏻‍♀️ Tall Tales Detoxify aka Toxic Comments Classification</h1>
-
-
-Tall Tales?
-Why do I called it tall tales, a modern one even?
-
-Threat of abuse and harrassment has started even in traditional tall tales until now especially when modernization has taken the world. If it continues, people will stop expressing themselves and giving up seeking different opinions. This shall be the first step to make a better world thus making a modern tall tales that consisted only a good tales for the future generation. 
+<h1 align="center">👮🏻‍♀️ Detoxify Police aka Toxic Comments Classification</h1>
 
 # Project Description [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dk3jJWLklZZ2xN9EpIdnQiNJFTdvFKgY?usp=sharing)
 Trained models & code to predict toxic comments using below modules from TensorFlow and Keras;
